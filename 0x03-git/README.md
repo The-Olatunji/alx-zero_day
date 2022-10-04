@@ -1,1 +1,1 @@
-a file under 0x03-git directory
+A file under 0x03-git directory
